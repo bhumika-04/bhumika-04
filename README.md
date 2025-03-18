@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhumika-04
 - 👀 I’m interested in more and more learining
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working at Indas Analytics.
+- 💞️ I’m looking to collaborate on more projects.
 - 📫 How to reach me 
 - shivharebhumika0@gmail.com
 
