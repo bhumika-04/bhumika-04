@@ -67,10 +67,10 @@ available  : Worldwide
 
 <div align="center">
   <picture>
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhumika-04&show_icons=true&bg_color=0B0B0F&title_color=5EEAD4&text_color=FFFFFF&icon_color=0D9488&border_color=1E1E2E&hide_border=false&count_private=true&ring_color=0D9488" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhumika-04&show_icons=true&bg_color=0B0B0F&title_color=5EEAD4&text_color=FFFFFF&icon_color=0D9488&border_color=1E1E2E&hide_border=false&count_private=true&ring_color=0D9488&include_all_commits=true" />
   </picture>
   <picture>
-    <img width="48%" src="https://streak-stats.demolab.com?user=bhumika-04&background=0B0B0F&ring=0D9488&fire=5EEAD4&currStreakLabel=2DD4BF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&border=1E1E2E" />
+    <img width="48%" src="https://streak-stats.demolab.com?user=bhumika-04&background=0B0B0F&ring=0D9488&fire=5EEAD4&currStreakLabel=2DD4BF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&border=1E1E2E&cache=v2" />
   </picture>
 </div>
 
